@@ -1,0 +1,3 @@
+//<bullets fired> <time revered> <enemies killed> <died> <[<level completed>,]>
+//14 4 6 1 [1,]
+2 1 2 0 [1,2,]

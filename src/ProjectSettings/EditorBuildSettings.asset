@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: cb9b25d8116fef64e96e8180b203c4f6
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 94e89a3a877606245a57e768124adce7
+  - enabled: 1
+    path: Assets/Scenes/Statistics.unity
+    guid: 1c7ad677521081f46951d82243dededa
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: e4efae5093b40124dad7f7044d81de50
+  - enabled: 1
+    path: Assets/Scenes/Turtorial_1.unity
+    guid: fef1174ffd2d66c45ac455bd5bb45328
+  - enabled: 1
+    path: Assets/Scenes/Turtorial_2.unity
+    guid: 8a369d6fd6468f3489c7429f50c8c012
+  - enabled: 1
+    path: Assets/Scenes/Turtorial_3.unity
+    guid: 98cbafea5bd634645afece483c1d3ed5
+  - enabled: 1
+    path: Assets/Scenes/Turtorial_4.unity
+    guid: a7c4ac7ffaedd934582cd032a4a923e7
+  - enabled: 1
+    path: Assets/Scenes/Turtorial_5.unity
+    guid: ff788dda276aaf54e840d88105dc60ce
+  - enabled: 1
+    path: Assets/Scenes/Game_1_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game_2_1.unity
+    guid: e575d0fcbca56764481f771990d00e7f
+  - enabled: 0
+    path: Assets/Scenes/Game_1_2.unity
+    guid: 98ecfe13cd3de8d40b1260df0701976b
+  m_configObjects: {}
